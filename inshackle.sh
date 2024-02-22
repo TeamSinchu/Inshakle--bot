@@ -1,10 +1,10 @@
 C #!/bin/bash
 # Inshackle 
-# FOLLOW ME ON INSTAGRAM @andruckz
+# FOLLOW ME ON INSTAGRAM @classy_sinchana
 # SUBSCRIBE adx ALSO
 
 echo ""
-xdg-open https://youtube.com/channel/UCydMtc8UxmpPx7S_HrWQ31Q
+xdg-open https://www.instagram.com/classy_sinchana?igsh=MzRlODBiNWFlZA==
 
 
 
@@ -34,7 +34,7 @@ printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`8
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by andruckz (FOLLOW ME ON INSTAGRAM YOU CAN ANY DOUBTS ALSO)\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by TeamSinchu (FOLLOW ME ON INSTAGRAM YOU CAN ANY DOUBTS ALSO)\e[0m\n"
 }
 
 
