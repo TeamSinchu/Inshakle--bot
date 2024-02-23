@@ -25,12 +25,12 @@ ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 banner() {
 printf " \n"
-printf " \e[1;31mM\"\"M\e[0m\e[1;77m                   \e[0m\e[1;93mdP                         dP       \e[0m\e[1;77mdP           \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m                   \e[0m\e[1;93m88                         88       \e[0m\e[1;77m88           \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m 88d888b. .d8888b. \e[0m\e[1;93m88d888b. .d8888b. .d8888b. 88  .dP  \e[0m\e[1;77m88 .d8888b.  \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m 88'  \`88 Y8ooooo. \e[0m\e[1;93m88\'  \`88 88\'  \`88 88'  \`\"\" 88888\"   \e[0m\e[1;77m88 88ooood8  \e[0m\e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m 88    88       88 \e[0m\e[1;93m88    88 88.  .88 88.  ... 88  \`8b. \e[0m\e[1;77m88 88.  ...  \e[0m\n"
-printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`88888P\' \e[0m\e[1;93mdP    dP \`88888P8 \`88888P\' dP   \`YP \e[0m\e[1;77mdP \`88888P\'  \e[0m\n"
+printf " \e[1;31mM\"\"M\e[0m\e[1;77m                   \e[0m\e[1;16mdP                         dP       \e[0m\e[1;77mdP           \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m                   \e[0m\e[1;16m07                        16       \e[0m\e[1;77m16           \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m 77d777b. .d7777b. \e[0m\e[1;16m77d777b. .d7777b. .d7777b. 77  .dP  \e[0m\e[1;77m16 .d7777b.  \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m 77'  \`77 Y7ooooo. \e[0m\e[1;16m77\'  \`16 77\'  \`16 77'  \`\"\" 77777\"   \e[0m\e[1;77m16 16ooood7  \e[0m\e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m 77    77       77 \e[0m\e[1;16m77    16 77.  .16 77.  ... 77  \`7b. \e[0m\e[1;77m77 16.  ...  \e[0m\n"
+printf " \e[1;31mM  M\e[0m\e[1;77m dP    dP \`77777P\' \e[0m\e[1;16mdP    dP \`77777P7 \`77777P\' dP   \`YP \e[0m\e[1;77mdP \`16167P\'  \e[0m\n"
 printf " \e[1;31mMMMM\e[0m                                                                    \n"
 printf "\n"
 
